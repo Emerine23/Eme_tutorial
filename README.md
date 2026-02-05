@@ -1,7 +1,7 @@
 ### EMERINE
 
 ---
-** HEADING**
+**HEADING**
 *Italic*
 * hi
 * ho
