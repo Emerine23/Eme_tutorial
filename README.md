@@ -1,2 +1,10 @@
-# Eme_tutorial
-This repository is for tutorials
+### EMERINE
+
+---
+** HEADING**
+*Italic*
+* hi
+* ho
+* *hu
+
+---
